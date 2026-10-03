@@ -1,0 +1,1 @@
+export default function Orders(){return <div className="container-shell py-20"><h1 className="text-4xl font-black">Orders</h1><div className="mt-8 rounded-2xl border border-dashed border-gray-300 p-12 text-center text-gray-500">No orders yet.</div></div>}

@@ -1,0 +1,1 @@
+import './globals.css';import Header from '@/components/Header';import Footer from '@/components/Footer';export const metadata={title:'Nova/Shop — Modern essentials',description:'Production-ready e-commerce storefront starter'};export default function RootLayout({children}:{children:React.ReactNode}){return <><Header/><main>{children}</main><Footer/></>}
